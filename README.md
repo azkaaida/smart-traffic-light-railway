@@ -5,7 +5,6 @@ Arduino-based traffic light system integrated with a railway barrier using ultra
 # 🚦 Smart Traffic Light with Railway Barrier (Arduino)
 
 This project is a simple simulation of a traffic light system integrated with a railway crossing barrier using Arduino.
-![System Illustration](illustration.png)
 
 ## Concept
 
